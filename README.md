@@ -10,7 +10,7 @@
 <br>
 
 <p>Desktop</p>
-<img src="https://github.com/maycon-douglasd/easy-shopping/blob/main/img/Easy%20Shopping.png?raw=true"/>
+<img src="https://github.com/maycon-douglasd/easy-shopping/blob/main/img/Easy%20Shopping.png?raw=true" width="550px"/>
 <br>
 <p>Mobile</p>
 <img src="https://github.com/maycon-douglasd/easy-shopping/blob/main/img/mobile.png?raw=true"/>
